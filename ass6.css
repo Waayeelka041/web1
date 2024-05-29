@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 250px;
+    height: 500px;
+   background-color: white;
+    padding: 40px;
+    margin: 12PX;
+    
+}
+.main img{
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+}
+.main h1{
+    font-size: 30px;
+}
+  .para{
+font-size: 20px;
+ 
+  }
+  .link{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 12PX;
+   font-weight: bold;
+    
+  }
+   .body{
+    display: flex;
+    justify-content: space-around;
+   background-color: aliceblue;
+   padding: 20px;
+   }
